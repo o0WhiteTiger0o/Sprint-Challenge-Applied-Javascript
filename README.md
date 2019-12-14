@@ -30,13 +30,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+DOM is document object model
+
 2. What is an event?
+
+DOM Events are sent to notify code of interesting things that have taken place. Each event is represented by an object which is based on the Event interface.
 
 3. What is an event listener?
 
+The EventListener interface represents an object that can handle an event dispatched by an EventTarget object.
+
 4. Why would we convert a NodeList into an Array?
 
+Because NodeList is not an array, so we have to covert it  iterate over it .
+
 5. What is a component?
+
+A component is made of several parts: HTML, CSS, or JavaScript brought together for reuse in a website or application.
 
 ### Git Set up
 
